@@ -15,3 +15,13 @@ I designed a multi-layer anti-reflective coating for a tandem perovskite-silicon
 In my RF communications lab class, my lab partner and I devised a multi-channel walkie-talkie that works over 13.56 MHz ISM band. We designed a Gilbert-cell, run non-differentially, that worked for both up and down conversion, a quarter-wave segment that allowed for both transmission and reception, and various amplifier and filter stages. We created a schematic and layout – for the sake of the class we tested our design by laying out our components on perf board using copper tape to create a working set of transceivers that communicated over a short range.
 
 ## [Walkie Talkie Final Paper](EE_133_Final_Project.pdf)
+
+# Resonant Power Converter
+
+The requirements for the final project of EE365A are to create a resonant converter that is able to
+1. Deliver 25 W of DC power
+2. Operate at 6.78 MHz
+3. Utilize a minimum input of 20V
+4. Transmit power wirelessly (1 in)
+
+## [Wireless Converter Final Paper](EE_365A_Final_Report.pdf)
