@@ -10,17 +10,17 @@ I designed a multi-layer anti-reflective coating for a tandem perovskite-silicon
 
 ## [Photovoltaics Final Paper](PV_Optimize_Hoffman.pdf)
 
-# RF Communications
-
-In my RF communications lab class, my lab partner and I devised a multi-channel walkie-talkie that works over 13.56 MHz ISM band. We designed a Gilbert-cell, run non-differentially, that worked for both up and down conversion, a quarter-wave segment that allowed for both transmission and reception, and various amplifier and filter stages. We created a schematic and layout – for the sake of the class we tested our design by laying out our components on perf board using copper tape to create a working set of transceivers that communicated over a short range.
-
-## [Walkie Talkie Final Paper](EE_133_Final_Project.pdf)
-
 # US Patent Final Report
 
 This is the final term paper for ME 220. It is in the form of a patent application; as the product discussed below is novel and this format is effective in delineating its design. This application describes a design for a stove top frying pan (or pot) that simply determines the current temperature of its surface. As a matter of practicality, the design also includes a Peltier module that acts as a thermogenerator so that the pan can power itself.
 
 ## [Frying Pan Patent Application](Term_Paper.pdf)
+
+# RF Communications
+
+In my RF communications lab class, my lab partner and I devised a multi-channel walkie-talkie that works over 13.56 MHz ISM band. We designed a Gilbert-cell, run non-differentially, that worked for both up and down conversion, a quarter-wave segment that allowed for both transmission and reception, and various amplifier and filter stages. We created a schematic and layout – for the sake of the class we tested our design by laying out our components on perf board using copper tape to create a working set of transceivers that communicated over a short range.
+
+## [Walkie Talkie Final Paper](EE_133_Final_Project.pdf)
 
 # Resonant Power Converter
 
