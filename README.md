@@ -31,3 +31,9 @@ The requirements for the final project of EE365A are to create a resonant conver
 4. Transmit power wirelessly (1 in)
 
 ## [Paper: Wireless Converter Final Paper](EE_365A_Final_Report.pdf)
+
+# Information Theory and Data Compression Poster Presentation
+
+I conducted research with Professor Tsachy Weissman in the Stanford Engineering Department during the COVID-19 pandemic, focusing on human-inspired data compression. The shift to virtual platforms created a new need to support live performing arts and effective remote communication. I interviewed dozens of actors, musicians, and teachers to understand the challenges they faced in adapting to digital formats. I presented my findings to a group of peers and professors, emphasizing the importance of developing more efficient, human-centered communication technologies utilizing non-perfict midi audio recordings. 
+
+## [Poster: Human Inspired MP3 Compression](HI_Music_Compression.pdf)
