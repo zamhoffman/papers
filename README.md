@@ -1,3 +1,9 @@
+# Human Autonomous Implantable System
+
+Continuous calcium monitoring has potential uses therapeutics and diagnostics. However, there is no current method for doing so. Instead, clinicians rely on blood tests that may include a considerable amount of error. In this paper we propose a novel implantable device that can wirelessly transmit ionized calcium concentration measurements continuously. This device has the potential to improve existing therapies, enable new ones, and reduce healthcare costs.
+
+## [Novel Low-Power Wireless Implantable Continuous Blood Calcium Monitor](PV_Optimize_Hoffman.pdf)
+
 # Photonics
 
 I designed a multi-layer anti-reflective coating for a tandem perovskite-silicon PV cell utilizing using transfer matrix optimization. While a conventional p-n junction solar cell achieves a maximum efficiency of around 33% (with reference to the black-body radiation the cell receives from the sun), I demonstrated that with a perovskite layer, ITO layer, and 2 anti-reflective layers (of specified thicknesses), we could gain a theoretical efficiency of above 60%. While this may not be practically feasible, given non-ideal characteristics of manufacturing and materials, my paper demonstrates the kinds of innovations that are most “forward-looking” for companies and researches in photovoltaics. 
