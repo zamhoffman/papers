@@ -2,7 +2,7 @@
 
 Continuous calcium monitoring has potential uses therapeutics and diagnostics. However, there is no current method for doing so. Instead, clinicians rely on blood tests that may include a considerable amount of error. In this paper we propose a novel implantable device that can wirelessly transmit ionized calcium concentration measurements continuously. This device has the potential to improve existing therapies, enable new ones, and reduce healthcare costs.
 
-## [Novel Low-Power Wireless Implantable Continuous Blood Calcium Monitor](PV_Optimize_Hoffman.pdf)
+## [Novel Low-Power Wireless Implantable Continuous Blood Calcium Monitor](EE303_Final_Project_Report.pdf)
 
 # Photonics
 
