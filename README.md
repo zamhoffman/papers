@@ -16,6 +16,12 @@ In my RF communications lab class, my lab partner and I devised a multi-channel 
 
 ## [Walkie Talkie Final Paper](EE_133_Final_Project.pdf)
 
+# US Patent Final Report
+
+This is the final term paper for ME 220. It is in the form of a patent application; as the product discussed below is novel and this format is effective in delineating its design. This application describes a design for a stove top frying pan (or pot) that simply determines the current temperature of its surface. As a matter of practicality, the design also includes a Peltier module that acts as a thermogenerator so that the pan can power itself.
+
+## [Frying Pan Patent Application](Term_Paper.pdf)
+
 # Resonant Power Converter
 
 The requirements for the final project of EE365A are to create a resonant converter that is able to
