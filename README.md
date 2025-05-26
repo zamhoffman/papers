@@ -4,6 +4,13 @@ Continuous calcium monitoring has potential uses therapeutics and diagnostics. H
 
 ## [Paper: Novel Low-Power Wireless Implantable Continuous Blood Calcium Monitor](EE303_Final_Project_Report.pdf)
 
+# Biomechanics Research Proposal
+
+Achilles tendon ruptures (ATRs) are the most common tendon tear in the human body and affect countless patients every year. However, in the NFL, the number of players suffering ATR each year has grown 300% to 500% in the past 25 years, leading researchers to believe that there may be another factor heightening the risk of ATR for these high performance athletes. Ankle tape is worn religiously by NFL athletes every week, and while it does have proven stabilizing benefits for the ankle, it may shorten the effective length of the tendon through compression. Ankle taping has also been found to limit dorsiflexion of the ankle and time to peak force in the lower extremities.
+The purpose of this proposed study is to take a cohort of offensive and defensive players from the Stanford men’s football team and measure the strain experienced by the achilles tendon under force for both taped and untaped ankles. 
+
+## [Paper: Possible Effects of Ankle Taping on Achilles Tendon Strain and Risk of Achilles Tendon Rupture](BIOE_281_Project.pdf)
+
 # Photonics
 
 I designed a multi-layer anti-reflective coating for a tandem perovskite-silicon PV cell utilizing using transfer matrix optimization. While a conventional p-n junction solar cell achieves a maximum efficiency of around 33% (with reference to the black-body radiation the cell receives from the sun), I demonstrated that with a perovskite layer, ITO layer, and 2 anti-reflective layers (of specified thicknesses), we could gain a theoretical efficiency of above 60%. While this may not be practically feasible, given non-ideal characteristics of manufacturing and materials, my paper demonstrates the kinds of innovations that are most “forward-looking” for companies and researches in photovoltaics. 
