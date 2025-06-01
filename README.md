@@ -50,4 +50,4 @@ I conducted research with Professor Tsachy Weissman in the Stanford Engineering 
 
 This is a presentation prepared for the on-site portion of the SpaceX interview process. I incorporated the final project done for EE 365A (above) and my intern project at De-Ice inc. (2023).
 
-## [Presentation: Wireless Resonant Converter] (Wireless Converter Presentation.pdf)
+## [Presentation: Wireless Resonant Converter](Wireless Converter Presentation.pdf)
