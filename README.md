@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is a non-comprehensive repository of papers, presentations, and more of my work while completing my degrees in Electrical Engineering at Stanford University.
+> This is a non-comprehensive repository of papers, presentations, and more of my work while completing my degrees in electrical engineering at Stanford University.
 
 
 # Human Autonomous Implantable System
