@@ -50,7 +50,7 @@ I conducted research with Professor Tsachy Weissman in the Stanford Engineering 
 ## [Poster: Human Inspired MP3 Compression](HI_Music_Compression.pdf)
 
 
-# On-site Interveiw Presentation
+# On-site Interview Presentation
 
 This is a presentation prepared for the on-site portion of the SpaceX interview process. I incorporated the final project done for EE 365A (above) and my intern project at De-Ice inc. (2023).
 
